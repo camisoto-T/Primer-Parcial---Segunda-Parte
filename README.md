@@ -1,3 +1,3 @@
-Camila Soto Torrejón
-Primer Parcial - Informática General
+Camila Soto Torrejon
+Primer Parcial - Informatica General
 Artes Multimediales - UNA
