@@ -5,15 +5,14 @@
 
 #blanco {color:aliceblue}
 
-body {background-image: url(../img/fondo.png); margin: 0;
-    padding: 0;}
-
 #contenedor {
 	width: 100%;
 	max-width: 1200px;
 	margin: 0 auto;
 }
 
+body {background-image: url(../img/fondo.png); margin: 0;
+    padding: 0;}
 
 /* ----------------------------------------------- */
  				/*Pseudoclases*/
