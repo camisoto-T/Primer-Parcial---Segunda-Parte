@@ -79,14 +79,6 @@ nav a {
 	text-decoration: none;
 	
 }
-
-a:link {color:black;}
-a:visited {color:#722165;}
-a:hover {color:#0f51af;}
-a:active {color:aqua;}
-
-
-
 header, footer {
 	background: rgb(5, 39, 83);
 	padding: 1rem;
