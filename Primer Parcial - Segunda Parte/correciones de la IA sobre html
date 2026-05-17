@@ -1,0 +1,40 @@
+/*Evitar estilos inline*/
+style="text-align: center;"
+y
+  style="display: block; margin: auto; width: 30rem;"
+
+  /*Ser más descriptiva en el alt de la imágen*/
+
+  /*El <br> dentro del párrafo*/
+  </strong> <br>De este modo...
+
+  /*No está mal, pero semánticamente es mejor separar ideas en párrafos distintos:*/
+  <p>...</p>
+<p>De este modo...</p>
+
+  /*Uso de <ins>
+
+<ins> significa “texto insertado” (como en ediciones/documentos comparados).
+
+Yo lo usé para destacar:*/
+
+<ins>artista, programador y educador</ins>
+
+/*Semánticamente sería mejor:*/
+
+<em>artista, programador y educador</em>
+
+/*o simplemente CSS.*/
+
+/*Conclusión
+
+El HTML está:
+
+bien estructurado 
+correctamente semántico 
+ordenado 
+legible 
+
+Solo tiene:
+
+algunas mejoras de buenas prácticas*/
