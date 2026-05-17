@@ -1,0 +1,28 @@
+/* ----------------------------------------------- */
+				/*Modelos de cajas*/
+/* ----------------------------------------------- */
+.caja1 {
+	background: rgb(255, 255, 255);
+	padding: 1rem;
+	border: 3px solid rgb(0, 0, 0);
+}
+
+.caja2 {
+	background: #1a0c31;
+	padding: 1rem;
+	border:1% solid black}
+
+.caja3 {
+	margin: 3%;
+	background-image: url(../img/reas-4.jpg);
+	display: inline-block;
+	background-position: left;
+	background-color: #080535; border: 8px solid #080535;
+	width: 22rem; height: 28rem;	
+}
+.caja4 {
+	margin: 3%;
+	display: inline-block;
+	background-color: #080535; border: 8px solid #080535;
+	
+}
