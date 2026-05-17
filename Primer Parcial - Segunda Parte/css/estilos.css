@@ -1,4 +1,28 @@
+/* ----------------------------------------------- */
+			/* Todos los estilos */
+/* ----------------------------------------------- */
+* {box-sizing:border-box;}
 
+#blanco {color:aliceblue}
+
+body {background-image: url(../img/fondo.png); margin: 0;
+    padding: 0;}
+
+#contenedor {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+
+/* ----------------------------------------------- */
+ 				/*Pseudoclases*/
+/* ----------------------------------------------- */
+
+a:link {color:black;}
+a:visited {color:#722165;}
+a:hover {color:#0f51af;}
+a:active {color:aqua;}
 
 /* ----------------------------------------------- */
               /* Selectores agrupados */
@@ -55,7 +79,6 @@ nav a {
 	
 }
 
-
 article h2 {
     background-color: rgb(6, 2, 56); 
     color:aliceblue;}
@@ -65,3 +88,39 @@ section h3 {font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
 
 section ul {  padding: 2%; line-height: 2rem;}
 
+/* ----------------------------------------------- */
+					/*Clases*/
+/* ----------------------------------------------- */
+ 
+.fondoh2 {background-color: azure; color: black; padding: 1%;}
+
+.fondo3 {background-color: #482186; color: rgb(250, 250, 250);}
+
+/* ----------------------------------------------- */
+				/*Modelos de cajas*/
+/* ----------------------------------------------- */
+.caja1 {
+	background: rgb(255, 255, 255);
+	padding: 1rem;
+	border: 3px solid rgb(0, 0, 0);
+}
+
+.caja2 {
+	background: #1a0c31;
+	padding: 1rem;
+	border:1% solid black}
+
+.caja3 {
+	margin: 3%;
+	background-image: url(../img/reas-4.jpg);
+	display: inline-block;
+	background-position: left;
+	background-color: #080535; border: 8px solid #080535;
+	width: 22rem; height: 28rem;	
+}
+.caja4 {
+	margin: 3%;
+	display: inline-block;
+	background-color: #080535; border: 8px solid #080535;
+	
+}
