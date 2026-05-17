@@ -1,0 +1,26 @@
+/*ERROR EN PADDING*/
+padding: 0,5em;
+/*"En CSS los decimales usan punto (.), no coma."*/
+
+/*En la caja2 usé porcentaje (%) en vez de píxeles, en las demas cajas había utilizado px*/
+/*también me faltó el cierre con ;*/
+border:1% solid black
+border:1px solid black; /*correción*/
+
+/*me recomendó utilizar nombres más descriptivos para las cajas*/
+.caja1
+.caja2
+
+/*Mucho CSS en una sola línea*/
+blockquote {background-color: blanchedalmond; font-style: italic; ...}
+
+/*Repetí muchos colores a lo largo del código para definir estilos*/
+
+/*Las medidas fijas como:*/
+width: 22rem;
+height: 28rem;
+/*pueden romperse en pantallas chicas.*/
+
+/*Conclusión:
+2 errores reales de sintaxis/unidades
+algunas mejoras de semántica y responsive*/
